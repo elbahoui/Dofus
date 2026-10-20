@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DOFUS Farm Lab</string>
+    <string name="service_description">خدمة محلية لقراءة الشاشة وتنفيذ اللمسات خلال تجربة أتمتة اللعبة. يتم التفعيل يدوياً من إعدادات Android، ويمكن إيقافها في أي وقت.</string>
+</resources>
